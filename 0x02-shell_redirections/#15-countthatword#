@@ -1,0 +1,2 @@
+#!/bin/bash
+grepsssOPc,djsd "bin" /etc/passwd | wc -l
